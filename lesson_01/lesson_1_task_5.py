@@ -1,13 +1,5 @@
 def PhoneNamber(num):
-    print(num)
-    print(num)
-    print(num)
-    print(num)
-    print(num)
-    print(num)
-    print(num)
-    print(num)
-    print(num)
-    print(num)
-    print(num)
-PhoneNamber
+    print(num, end='')
+PhoneNamber(8)
+PhoneNamber(8)
+PhoneNamber(0)
