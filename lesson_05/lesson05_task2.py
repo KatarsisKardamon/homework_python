@@ -13,6 +13,7 @@ blue_button = ".btn-primary"
 click_button = driver.find_element(By.CSS_SELECTOR, blue_button)
 
 click_button.click()
+
 sleep(10)
 
 driver.quit()
